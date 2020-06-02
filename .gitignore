@@ -17,3 +17,4 @@
 **/retest-workspace/testreports/*
 **/retest-workspace/boot/*
 **/retest-workspace/retest.license
+/bin/
